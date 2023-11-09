@@ -7,3 +7,6 @@
 * 그러나 동시에 많은 입출력 요청을 처리해야 하는 프로그램에서는 비효율적일 수 있다.
 * 동기 입출력 시스템에서는 입출력 작업이 프로세스의 실행을 막는 병목 현상이 발생할 수 있어, 시스템 자원이 충분히 활용되지 않는 상황이 발생할 수 있다.
 * 따라서 대규모 시스템이나 멀티태스킹이 중요한 환경에서는 비동기 입출력(Asynchronous I/O) 방식이 종종 선호된다.
+
+## 참고
+- https://www.youtube.com/watch?v=mb-QHxVfmcs&list=PLcXyemr8ZeoQOtSUjwaer0VMJSMfa-9G-&index=13&pp=iAQB
