@@ -20,4 +20,4 @@
 
 # 참고
 - https://www.youtube.com/watch?v=VmclwfKzNO0&list=PLXvgR_grOs1DGFOeD792kHlRml0PhCe9l&index=6
-  
+- Zero Copy : https://soft.plusblog.co.kr/7
