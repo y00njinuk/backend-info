@@ -17,3 +17,7 @@
 # 주의점
 * 메모리에 대한 직접 접근 권한을 갖기 때문에 잘못 구현된 DMA는 시스템의 안정성을 해칠 수 있으며, 메모리 접근 충돌을 일으킬 수 있다
 * 따라서, DMA 사용 시 올바른 동기화 메커니즘과 충돌 방지 로직이 필요하다.
+
+# 참고
+- https://www.youtube.com/watch?v=VmclwfKzNO0&list=PLXvgR_grOs1DGFOeD792kHlRml0PhCe9l&index=6
+  
